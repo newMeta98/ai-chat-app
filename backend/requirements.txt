@@ -1,0 +1,10 @@
+Flask
+requests
+openai
+sqlalchemy
+python-dotenv
+werkzeug
+Flask-Cors
+pymongo
+python-dateutil
+Flask-Session
