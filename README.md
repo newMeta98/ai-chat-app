@@ -1,29 +1,6 @@
-project/
-├── backend/
-│   ├── .env
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   ├── database.py
-│   │   ├── api_client.py
-│   │   ├── helpers.py
-│   │   └── memory.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── user.py
-│   │   └── message.py
-│   └── routes/
-│       ├── __init__.py
-│       ├── auth_routes.py
-│       └── database_routes.py
-
-
-
-
 # AI Chat Application with Personalized Memory
 
-A full-stack AI chat application featuring persistent user memory, contextual conversations, and MongoDB-based personal data extraction/storage. Built with Flask + MongoDB backend and React frontend.
+A full-stack AI chat application featuring persistent user memory, contextual conversations, and MongoDB-based personal data extraction/storage/retrieval. Built with Flask + MongoDB backend and React frontend.
 
 ## Key Features
 
